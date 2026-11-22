@@ -1,4 +1,4 @@
-# Task Manager
+# Task Manager & Collaboration app
 
 A REST API for managing projects, tasks, comments, assignees, and file attachments. It uses Spring Boot 4, Spring Security with JWT authentication, PostgreSQL, JPA, and Gradle.
 
